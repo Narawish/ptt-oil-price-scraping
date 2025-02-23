@@ -1,5 +1,13 @@
-# ptt-oil-checker
-This repository will check the oil price of a company in Thailand yearly.
+# PTT oil price web scraping
 
-Remarks!! :
-- The oil-price.ipynb was removed
+The objective of this repository is to learn:
+- methodologies of web scraping
+- timeseries analysis
+
+Tool used:
+- Python (Jupyter Notebook)
+
+Libraries:
+- Selenium
+- BeautifulSoup
+- Pandas
